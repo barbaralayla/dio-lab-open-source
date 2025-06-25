@@ -1,6 +1,6 @@
 # Bárbara Tavares
 
-Psicóloga tentando uma transição de carreira através da tecnológia.
+Psicóloga tentando uma transição de carreira através da tecnologia.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1rbara-tavares-3018761a0/) 
